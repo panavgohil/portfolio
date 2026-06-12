@@ -1,16 +1,129 @@
-# React + Vite
+# 🚀 Panav Gohil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Electronics Engineering (VLSI Design & Technology) student at Delhi Technological University (DTU) passionate about Artificial Intelligence, Computer Vision, Embedded Systems, and Intelligent Hardware Systems.
 
-Currently, two official plugins are available:
+I enjoy building systems that bridge software intelligence with real-world hardware to solve practical problems.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Portfolio
 
-## React Compiler
+Website: https://panavgohil.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About
 
-## Expanding the ESLint configuration
+* 🎓 Electronics Engineering (VLSI Design & Technology), DTU
+* 📚 Currently in 3rd Semester
+* 🤖 Interested in Artificial Intelligence and Computer Vision
+* ⚡ Exploring Embedded Systems and Intelligent Hardware
+* 🚀 Passionate about building technology-driven solutions with real-world impact
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
+* Python
+* C
+* C++
+* JavaScript
+
+### Artificial Intelligence & Machine Learning
+
+* TensorFlow
+* Scikit-Learn
+* Model Evaluation
+* Machine Learning Fundamentals
+
+### Computer Vision
+
+* OpenCV
+* MediaPipe
+* Image Processing
+* Convolutional Neural Networks (CNNs)
+
+### Embedded Systems
+
+* Arduino
+* ESP32-CAM
+* IoT Systems
+* Sensor Integration
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+* React
+* Tailwind CSS
+
+---
+
+## 🚀 Featured Projects
+
+### Driver Drowsiness Detection
+
+Real-time driver monitoring system using Convolutional Neural Networks and computer vision to detect prolonged eye closure, classify eye states, and trigger safety alerts.
+
+**Tech:** Python, TensorFlow, OpenCV, CNN
+
+Repository:
+https://github.com/panavgohil/Driver_Drowsiness_Detection_Using_CNN
+
+---
+
+### Autonomous SENTRY Robot
+
+Autonomous reconnaissance and hazard detection platform integrating ESP32-CAM, gas sensing, fire detection, motion sensing, and real-time visual monitoring.
+
+Repository:
+https://github.com/panavgohil/Autonomous-SENTRY-Robot
+
+---
+
+### Real-Time Hand Gesture Recognition
+
+Machine learning powered gesture recognition system utilizing MediaPipe landmark extraction and computer vision techniques for accurate real-time gesture classification.
+
+Repository:
+https://github.com/panavgohil/RealTime_HandGestureRecognition
+
+---
+
+### Gesture Controlled Mouse
+
+Human-computer interaction system enabling cursor movement and mouse operations through hand gestures captured using a webcam.
+
+Repository:
+https://github.com/panavgohil/Gesture_Control_Mouse
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Winner – DTU ALTAIR Ideathon
+* 🎤 Represented DTU at the 19th IIT Bombay Debate
+* 🎤 Represented DTU at IIT Delhi Asian Parliamentary Debate
+* 🎤 Represented DTU at IGDTUW Parliamentary Debate
+
+---
+
+## 📫 Connect With Me
+
+Portfolio:
+https://panavgohil.vercel.app/
+
+LinkedIn:
+https://www.linkedin.com/in/panavgohil/
+
+GitHub:
+https://github.com/panavgohil
+
+LeetCode:
+https://leetcode.com/panavgohil
+
+Email:
+[panavgohil@gmail.com](mailto:panavgohil@gmail.com)
+
+---
+
+*"Designing Systems That Sense, Think and Act."*
