@@ -1,3 +1,4 @@
+import { motion } from "framer-motion";
 function Navbar() {
   return (
     <nav className="fixed top-0 left-0 w-full bg-slate-950/80 backdrop-blur-md border-b border-slate-800 z-50">

@@ -1,3 +1,4 @@
+import { motion } from "framer-motion";
 function Contact() {
 return ( <section
    id="contact"

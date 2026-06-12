@@ -1,3 +1,4 @@
+import { motion } from "framer-motion";
 function Skills() {
 const skillGroups = [
 {
@@ -26,7 +27,8 @@ skills: ["DSA", "OOP", "Problem Solving"],
 },
 ];
 
-return ( <section
+return ( <motion.section
+        
    id="skills"
    className="bg-slate-900 text-white py-24 px-6"
  > <div className="max-w-6xl mx-auto">
@@ -63,7 +65,7 @@ return ( <section
     </div>
 
   </div>
-</section>
+</motion.section>
 
 );
 }
