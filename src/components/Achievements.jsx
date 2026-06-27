@@ -9,6 +9,12 @@ subtitle:
 "Led my team in developing an intelligent solution for Security Forces Protection during high-risk combat scenarios, securing 1st place among competing teams.",
 },
 {
+  icon: "🚀",
+  title: "Grand Finalist - Hackfluence 2026",
+  subtitle:
+    "Led my team to the Grand Finale of Hackfluence 2026, securing a position among the Top 40 teams nationwide. Built EventLens, an intelligent event ecosystem leveraging AI-driven recommendations, real-time analytics, and user engagement insights to improve event experiences.",
+},
+{
 icon: "📈",
 title: "98.53 Percentile - JEE Main",
 subtitle:
