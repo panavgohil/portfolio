@@ -16,7 +16,7 @@ subtitle:
 },
 {
 icon: "📈",
-title: "98.53 Percentile - JEE Main",
+title: "98.54 Percentile - JEE Main",
 subtitle:
 "Secured an All India Rank of 22,540 among more than 1.5 million candidates.",
 },
